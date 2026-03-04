@@ -1,12 +1,7 @@
 <div align="center">
   <img height="80" alt="icon" src="https://github.com/vague-theme/vague/blob/main/assets/icon.png?raw=true" />
   <h1>Vague for Chromium</h1>
-  <!-- Optional: add a preview screenshot here
-  Use user-attachments instead of the assets/ folder to keep the repo minimal.
-  Example:
-  <img src="https://github.com/user-attachments/assets/..." alt="Preview" />
-  Note: make sure to adjust image size if applicable
-  -->
+  <img width="1940" height="1072" alt="Preview" src="https://github.com/user-attachments/assets/1371b15c-febe-410f-9169-fc7419e4b93d" />
 </div>
 
 ## Usage
