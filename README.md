@@ -6,9 +6,10 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `vague.theme`
-3. Select `Vague` from the themes dropdown
+1. Clone this repository
+2. Open Extensions page, enable `Developer mode`
+3. Select `Load unpacked`
+4. Locate the `vague-chromium` path location, select the directory
 
 ## Thanks to contributors
 
