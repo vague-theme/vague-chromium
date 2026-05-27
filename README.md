@@ -10,9 +10,3 @@
 2. Open Extensions page, enable `Developer mode`
 3. Select `Load unpacked`
 4. Locate the `vague-chromium` path location, select the directory
-
-## Thanks to contributors
-
-- [NextiaIndex](https://github.com/nextiaindex)
-- [vague2k](https://github.com/vague2k)
-- [skewb1k](https://github.com/skewb1k)
