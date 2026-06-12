@@ -1,7 +1,7 @@
 <div align="center">
   <img height="80" alt="icon" src="https://github.com/vague-theme/vague/blob/main/assets/icon.png?raw=true" />
   <h1>Vague for Chromium</h1>
-  <img width="1940" height="1072" alt="Preview" src="https://github.com/user-attachments/assets/0e3b7275-e5cd-47ed-aa03-171072c98822" />
+  <img alt="Preview" src="https://github.com/user-attachments/assets/1b7e5125-1d9c-41bb-929f-764622ae6bda" />
 </div>
 
 ## Usage
